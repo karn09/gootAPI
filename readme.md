@@ -1,4 +1,5 @@
 so much goot, we needed an API.
+Returns a string that can be used for all your goot needs.
 
 /api/about
   'There were so many goots we needed an api!'
