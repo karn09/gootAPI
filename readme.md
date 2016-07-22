@@ -1,22 +1,22 @@
 so much goot, we needed an API.
 
-/about
+/api/about
   'There were so many goots we needed an api!'
 
-/this
+/api/this
   this is so goot!
 
-/this/:thing
+/api/this/:thing
   this :thing is so goot!
 
-/place
+/api/place
   this place is so goot!
 
-/place/:/place
+/api/place/:/place
   this :place is so goot!
 
-/goot
+/api/goot
   so goot!
 
-/goot/:num
+/api/goot/:num
   so goot * num!
